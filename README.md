@@ -11,7 +11,6 @@ For this project, we decide to create a model that predicts which horse has more
 ## Setup Instructions
 - Clone the repository
 - Install the appropriate packages
-- Fill your Twitter API credentials into CONNECTION_INFO.csv
 - The original dataset can be found in Kaggle [Woodbine Horse racing](https://www.kaggle.com/noqcks/woodbine-races/version/1)
 - Run Woodbine_project.ipynb
 
