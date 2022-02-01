@@ -1,17 +1,13 @@
-# Woodbine-Racetrack
-Attempting to predict the winning horse using the public woodbine racetrack database
+# Woodbine Horserace Analysis
+## _Smarter Betting With Neural Networks_
+Woodbine Racetrack is a long-standing institution for horse racing in Toronto, Ontario. Data on 4 years worth of its horse races [are available on Kaggle](https://www.kaggle.com/noqcks/woodbine-races), and in order to learn about neural networks, we attempted to use it to build a model that could predict the winner of a horse race.
 
-Woodbine is a very traditional racetrack in the Etobicoke neighbourhood of Toronto, Ontario.
-The Woodbine's history dates back to 1881, when the Ontario jockey was established, and 1956, when the track opened with a one-mile oval track.
-
-Betting on a horse can be intimating. Putting money in the wrong horse can lead to a huge loss of money. 
-
-For this project, we decide to create a model that predicts which horse has more potential to be the winner based on its characteristics.
+After all, betting on a horse race can be intimating - and why are we studying AI if not to see if we can use technology to help us with problems like this?
 
 ## Setup Instructions
-- Clone the repository
-- Install the appropriate packages
-- The original dataset can be found in Kaggle [Woodbine Horse racing](https://www.kaggle.com/noqcks/woodbine-races/version/1)
+- Clone the repository.
+- Download the dataset from [Kaggle](https://www.kaggle.com/noqcks/woodbine-races).
+- Install the appropriate python packages in your local environment.
 - Run Woodbine_project.ipynb
 
 ## Contributing
